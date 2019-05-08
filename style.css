@@ -24,7 +24,7 @@ body {
 
 .title-container {
   height: 90vh;
-  background: url("img/bg.jpg") center center no-repeat;
+  background: url("https://github.com/hamza-mirza/react-weather-app/blob/master/src/img/bg.jpg?raw=true") center center no-repeat;
   background-size: cover;
   display: flex;
   align-items: center;
